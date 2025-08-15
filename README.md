@@ -37,10 +37,6 @@
 </p>
  
 <p align="center">
-  <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
  
   <a href="https://space.bilibili.com/501344385" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
@@ -49,20 +45,20 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/window-han">
+    <img src="https://badges.strrl.dev/visits/window-han/window-han?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/window-han">
+    <img src="https://badges.strrl.dev/years/window-han?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/window-han?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/window-han?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/HIM198">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/window-han">
+    <img src="https://badges.strrl.dev/gists/window-han?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/window-han">
+    <img src="https://badges.strrl.dev/commits/monthly/window-han?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
@@ -76,25 +72,13 @@
  
 <!-- START_SECTION:brain -->
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
 <!-- END_SECTION:brain -->
  
 </td></tr>
  
 <tr><td>
  
-### 🤾‍♂️ Funny Soul
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:douban -->
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学张宇考研数学</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在学王道考研</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看完肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+
  
  
 <!-- END_SECTION:douban -->
